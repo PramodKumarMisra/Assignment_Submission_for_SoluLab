@@ -1,6 +1,7 @@
-# Assignment_Submission_for_SoluLab
+# Assignment_Submission_for_SoluLab      <img src='https://cdn3.iconfinder.com/data/icons/sociocons/256/github-sociocon.png' alt='github' height='40'>
 ![Generic badge](https://img.shields.io/badge/Machine-Learning:-green.svg)                              ![Generic badge](https://img.shields.io/badge/Python-V3:-blue.svg)        ![Generic badge](https://img.shields.io/badge/TensorFlow-Keras:-orange.svg)               ![Generic badge](https://img.shields.io/badge/SciPy-sklearn:-green.svg)                  ![Generic badge](https://img.shields.io/badge/C:Newral-Network:-white.svg)   
 This repo, only for Assignment Submission  for SoluLab 
+
 
 ![Generic badge](https://img.shields.io/badge/Problem_Statement-:-blue.svg)  
 To use the given coin dataset to classify the coins between 5 categories. 
