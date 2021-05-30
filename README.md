@@ -43,4 +43,4 @@ I have been trying to solved this problem using  **Machine Learning**/**Deel Lea
 
 **Activation Function for last layer:**  "softmax"
 
-**Accuracy Rate:** 
+**Accuracy Rate:**  92.2 %
