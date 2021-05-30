@@ -35,6 +35,12 @@ I am doing this with datasets since it makes the algorithm more flexible, mostly
 
 I have been trying to solved this problem using  **Machine Learning**/**Deel Learning** algorthms known as **Convolutional Newral Network(CNN)** for better accuracy. I wants to use data augmentation technique but we have sufficient data sets which's give use 80%+ accuracy that why i'm skip it.
 
+
 **Reference :** https://keras.io/api/models/model_training_apis/#compile-method
+
+
+**Activation Function:**  "relu"
+
+**Activation Function for last layer:**  "softmax"
 
 **Accuracy Rate:** 
