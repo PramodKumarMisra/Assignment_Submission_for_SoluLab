@@ -1,5 +1,9 @@
 # Assignment_Submission_for_SoluLab      <img src='https://www.solulab.com/wp-content/themes/Avada/assets/images/solulab-logo-dark-75.png' alt='github' height='40'>
-![Generic badge](https://img.shields.io/badge/Machine-Learning:-green.svg)                              ![Generic badge](https://img.shields.io/badge/Python-V3:-blue.svg)        ![Generic badge](https://img.shields.io/badge/TensorFlow-Keras:-orange.svg)               ![Generic badge](https://img.shields.io/badge/SciPy-sklearn:-green.svg)                  ![Generic badge](https://img.shields.io/badge/C:Newral-Network:-white.svg)   
+![Generic badge](https://img.shields.io/badge/Machine-Learning:-green.svg)                              ![Generic badge](https://img.shields.io/badge/Python-V3:-blue.svg)        ![Generic badge](https://img.shields.io/badge/TensorFlow-Keras:-orange.svg)               ![Generic badge](https://img.shields.io/badge/SciPy-sklearn:-green.svg)                  ![Generic badge](https://img.shields.io/badge/C:Newral-Network:-white.svg)               ![Generic badge](https://img.shields.io/badge/Matplotlib-pyplot:-blue.svg)             ![Generic badge](https://img.shields.io/badge/Pandas-tqdm:-orange.svg)
+
+
+
+
 This repo, only for Assignment Submission  for SoluLab 
 
 
@@ -30,3 +34,7 @@ I'm using image recognition techniques to separate the coins, classify them on t
 I am doing this with datasets since it makes the algorithm more flexible, mostly it seems that the segmentation part is fine with minor error rates and that most of the issues with the multi-coin task can be explained as statistical error if we consider 97% accuracy for classification (just a regular classifier) and an average of 7-8 coins in the image
 
 I have been trying to solved this problem using  **Machine Learning**/**Deel Learning** algorthms known as **Convolutional Newral Network(CNN)** for better accuracy. I wants to use data augmentation technique but we have sufficient data sets which's give use 80%+ accuracy that why i'm skip it.
+
+**Reference :** https://keras.io/api/models/model_training_apis/#compile-method
+
+**Accuracy Rate:** 
